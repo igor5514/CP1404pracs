@@ -7,6 +7,8 @@ converts the rest of the lines from a list of strings into a list of numbers,
 which it then prints with the maximum value for that subject.
 Nice. Except, it’s broken! It reads the lists per user not per subject so the results are incorrect.
 Use the debugger to follow what it's doing... then fix it.
+
+By Kenzin Igor
 """
 
 
